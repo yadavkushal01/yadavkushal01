@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🎓 3rd year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
 - 🏆 Selected for **Infosys HackWithInfy PPI** – Digital Specialist Engineer (DSE) role
 - 💼 Former **ML Intern @ Edunet Foundation** – built and deployed a real-time AI web app
 - 📄 **Research paper submitted** to MRCN-2025, Kurukshetra University
 - 💡 Passionate about building end-to-end software solutions powered by AI
-- 🌱 Currently strengthening: **DSA, OOP in Java, and Full Stack development**
+- 🌱 Currently strengthening: **DSA, OOP in Java, and AI & ML Concepts**
 
 ---
 
